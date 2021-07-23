@@ -1,5 +1,5 @@
-# cypress-infrastructure-example
-Project to practice automation testing configuration around the Cypress framework.
+# puppeteer-infrastructure-example
+Project to practice automation testing configuration around the Puppeteer framework.
 
 Create React App is used as application under test 
 
